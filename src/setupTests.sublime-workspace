@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/LENOVO/Desktop/smartbrain2/.gitignore",
+		"/C/Users/LENOVO/Desktop/smartbrain2/package.json",
+		"/C/Users/LENOVO/Desktop/smartbrain2/package-lock.json",
+		"/C/Users/LENOVO/Desktop/smartbrain2/README.md",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/Imagelinkform/Imagelinkform.css",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/SignIn/SignIn.js",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/Register/Register.js",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/App.css",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/Imagelinkform/imagelinkform.css",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Register/Register.js",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/faceRecognition/faceRecognition.css",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/FaceRecognition/faceRecognition.js",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/index.css",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/Navigation/Navigation.js",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/Imagelinkform/Imagelinkform.js",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/Logo/Logo.css",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/Logo/Logo.js",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/index.js",
+		"/C/Users/LENOVO/Desktop/smartbrain/package.json",
+		"/C/Users/LENOVO/Desktop/smartbrain/src/Components/Rank/Rank.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/ES9.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exerciseAsyncAwait-SOLUTIONS.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exerciseAsyncAwait.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/action.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/reducers.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercisePromises-SOLUTIONS.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/index.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/constants.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/containers/App.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/components/SearchBox.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercisePromises.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/SearchBox.js",
+		"/C/Users/LENOVO/Desktop/robofriends/node_modules/react-dom/cjs/react-dom.development.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/Card.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/App.css",
+		"/C/Users/LENOVO/Desktop/robofriends/src/Scroll.js",
+		"/C/Users/LENOVO/Desktop/robofriends/package-lock.json",
+		"/C/Users/LENOVO/Desktop/robofriends/package.json",
+		"/C/Users/LENOVO/Desktop/robofriends/README.md",
+		"/C/Users/LENOVO/Desktop/robofriends/src/App.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/index.css",
+		"/C/Users/LENOVO/Desktop/robofriends/SEGA.woff",
+		"/C/Users/LENOVO/Downloads/sega-logo-font-cufonfonts-webfont/SEGA.woff",
+		"/C/Users/LENOVO/Downloads/sega-logo-font-cufonfonts-webfont/style.css",
+		"/C/Users/LENOVO/Desktop/robofriends/src/robots.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/CardList.js",
+		"/C/Users/LENOVO/Downloads/robots.js/robots.js",
+		"/C/Users/LENOVO/Desktop/robofriends/src/robot.js",
+		"/C/Users/LENOVO/simplefolio/src/template.html",
+		"/C/Users/LENOVO/start-here-guidelines/start-here-guidelines/CONTRIBUTORS.md",
+		"/C/Users/LENOVO/Documents/GitHub/start-here-guidelines/CONTRIBUTORS.md",
+		"/C/Users/LENOVO/Downloads/backgroundgenerator/firs code",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/__MACOSX/._exercise1-SOLUTIONS.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise3-SOLUTIONS.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/advanced-looping-solution.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise5-SOLUTIONS-1.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise4-SOLUTIONS.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/robot-code/.git/index",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/advanced-looping-exercise.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/ES10-Solutions.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/__MACOSX/._exercise1.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise2.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise3.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise4.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise5.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise6.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exercise6-SOLUTIONS.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exerciseES7.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exerciseES7-SOLUTIONS.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exerciseES8.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/exerciseES8-SOLUTIONS.js",
+		"/C/Users/LENOVO/Downloads/Javascript exercises/ES10-Exercise.js",
+		"/C/Users/LENOVO/Downloads/backgroundgenerator/index.html",
+		"/C/Users/LENOVO/Documents/script.js",
+		"/C/Users/LENOVO/Downloads/sectionoutline/SectionOutline.txt",
+		"/C/Users/LENOVO/Downloads/DOM-selectors.txt/DOM-selectors.txt",
+		"/C/Users/LENOVO/Downloads/exercise7/exercise7.txt",
+		"/C/Users/LENOVO/Downloads/exercise7/exercise7-SOLUTIONS.js",
+		"/C/Users/LENOVO/Downloads/exercise6/exercise6.txt",
+		"/C/Users/LENOVO/Downloads/exercise1/exercise1.txt",
+		"/C/Users/LENOVO/Downloads/exercise2/exercise2.txt",
+		"/C/Users/LENOVO/Downloads/exercise3/exercise3.txt",
+		"/C/Users/LENOVO/Downloads/exercise4/exercise4.txt",
+		"/C/Users/LENOVO/Documents/style.css",
+		"/C/Users/LENOVO/Downloads/exercise4/exercise4-SOLUTIONS.txt",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/C/Users/LENOVO/Downloads/startup_files/header.jpg"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "setupTests.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
